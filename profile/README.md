@@ -1,6 +1,5 @@
-![Org](https://img.shields.io/badge/cepdnaclk-org?logo=github&label=Organization&color=blue)
-![Enterprise](https://img.shields.io/badge/University%20of%20Peradeniya-enterprise?logo=github&label=Enterprise&color=430008)
-
+[![Org](https://img.shields.io/badge/cepdnaclk-org?logo=github&label=Organization&color=blue)](https://github.com/cepdnaclk)
+[![Enterprise](https://img.shields.io/badge/University%20of%20Peradeniya-enterprise?logo=github&label=Enterprise&color=430008)](https://github.com/enterprises/university-of-peradeniya)
 
 Welcome to the official GitHub organization of the **Department of Computer Engineering, University of Peradeniya, Sri Lanka**.
 
