@@ -1,3 +1,7 @@
+![Org](https://img.shields.io/badge/cepdnaclk-org?logo=github&label=Organization&color=blue)
+![Enterprise](https://img.shields.io/badge/University%20of%20Peradeniya-enterprise?logo=github&label=Enterprise&color=430008)
+
+
 Welcome to the official GitHub organization of the **Department of Computer Engineering, University of Peradeniya, Sri Lanka**.
 
 This organization hosts a wide range of **student projects, academic portals, department web services, research tools, APIs, and community sites** developed by students, faculty, and collaborators of the department.
